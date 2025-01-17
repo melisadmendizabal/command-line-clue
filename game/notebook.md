@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Glass Bottle
 - [ ] Old Key
-- [ ] Wooden Box
+- [x] Wooden Box
 
 ## Notes
 *Use this space to record your findings and deductions...*
