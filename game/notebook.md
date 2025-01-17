@@ -2,7 +2,7 @@
 
 ## Suspects
 - [x] The Chef
-- [ ] The Journalist
+- [x] The Journalist
 - [ ] The Mayor
 
 ## Weapons
