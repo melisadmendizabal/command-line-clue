@@ -6,7 +6,7 @@
 - [ ] The Mayor
 
 ## Weapons
-- [ ] Glass Bottle
+- [x] Glass Bottle
 - [ ] Old Key
 - [x] Wooden Box
 
